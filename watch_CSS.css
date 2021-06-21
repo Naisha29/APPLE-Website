@@ -1,0 +1,47 @@
+h1{
+  font-family: Merienda;
+  font-size: 70px;
+  text-shadow: -4px 1px 0 #AFE0FF,
+                5px 4px 0 #AFE0FF,
+                5px -1px 0 #AFE0FF,
+               -1px -1px 0 #AFE0FF;
+
+}
+
+h5{
+	font-size: 25px
+
+}
+
+h4{
+	font-size: 20px
+}
+
+.dumb{
+  background-color: #AFE0FF;
+  height: 50px;
+}
+
+ul{
+	font-size: 40px;
+	background-color: #AFE0FF;
+}
+
+button{
+	background-color: black;
+	border-radius: 12px;
+	text-align: center;
+	font-size: 24px;
+	width: 15%;
+	color: #FFFF;
+}
+
+btn{
+	background-color: #AFE0FF;
+	border-radius: 12px;
+	text-align: center;
+	font-size: 20px;
+	width: 25%;
+	color: black;
+    border: 2px solid black;
+ }
